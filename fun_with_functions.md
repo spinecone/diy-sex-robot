@@ -14,7 +14,7 @@ Vibrators aren't very complicated machines. They're either vibrating or not vibr
  
 
 
-###   That's it! Everything else is up to your imagination.
+###   That's it! Everything else is up to your imagination.🌺
 
 
 
