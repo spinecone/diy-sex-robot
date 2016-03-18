@@ -1,3 +1,5 @@
-# First Chapter
+# Fun with integers
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* Meh this program is boring, how can we decrease the amount of time between vibration loops?
+* Too intense!!! How can we make the program take longer to speed up and slow down the vibration?
+* 
