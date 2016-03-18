@@ -10,6 +10,6 @@ Vibrators aren't very complicated machines. They're either vibrating or not vibr
 
 * **pinMode**(pinNumber, intensity)
 
-  We won't be messing around with this function very much, but it's essential to our programs. This tells the Arduino what we want to do with the machinery attached to the pin at pinNumber. For our vibrators, this will always be OUTPUT, so we'll be calling pinMode(5, OUTPUT) at the beginning of every program. However, different kinds of devices like buttons or switches can be used as INPUT.
+  We won't be messing around with this function very much, but it's an essential one. This tells the Arduino what we want to do with the machinery attached to the pin at pinNumber. For our vibrators, this will always be OUTPUT, so we'll be calling pinMode(5, OUTPUT) at the beginning of every program. However, different kinds of devices like buttons or switches can be used as INPUT.
  
 
