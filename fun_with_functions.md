@@ -6,7 +6,7 @@ Vibrators aren't very complicated machines. They're either vibrating or not vibr
     
 * **delay**(milliseconds)
 
-  Delay is how we tell the arduino not to change anything. This isn't the same as doing nothing, however. If we tell the Arduino to vibrate at 255 vibrations per second and then tell it to delay for 30000 milliseconds, it will just keep vibrating at maximum intensity for 30 whole seconds.
+  Delay is how we tell the arduino not to change anything. This isn't the same as doing nothing, however. If we tell the Arduino to vibrate at 255 vibrations per second and then tell it delay(30000), it will just keep vibrating at maximum intensity for 30 whole seconds.
 
 
 
