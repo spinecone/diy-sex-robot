@@ -4,3 +4,4 @@ An integer is any number that doesn't have a fraction or decimal, like 1, 2, or 
 
 * Copy the setup and loop from the previous chapter into a new Arduino file.
 * Change the analogWrite to a higher number so that it will vibrate.
+* When you're ready to test, save your file and then click "upload."
