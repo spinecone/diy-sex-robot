@@ -16,7 +16,7 @@ In this program, we're keeping track of the vibrator motor's current speed in a 
 
 
 
-For loops, another type of control structure, allow us to make a set number of repetitions. They're made up of 3 parts: initializing a counter, checking the counter in a conditional, and updating the counter. When the conditional statement becomes "false", the for loop will stop running.
+ing a counter, checking the counter in a conditional, and updating the counter. When the conditional statement becomes "false", the for loop will stop running.
 <br> <img src="for_loop.png"><br>
 In this program, we're increasing the intensity of the vibration over the course of 10 seconds, at a maximum of 200 intensity before repeating the loop. Our counter, x, starts at 0, repeats the for loop until it reaches 10, and increases by 1 at every repeat (x++ is another way of saying x = x + 1).
 
