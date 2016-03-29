@@ -1,11 +1,9 @@
 # Fun With Conditionals and Control Structures
 **Conditionals** are statements that return either **true** or **false**. For example, the conditional statement 100 > 70 evaluates as **true**, whereas 0 < 300 is **false**. 
 
-The different kinds of conditional statements we can make are:
+Some different kinds of conditional statements we can make are:
 * x **<** y (x is less than y)
 * x **>** y (x is greater than y)
-* x **<=** y (x is less than or equal to y)
-* x **>=** y (x is greater than or equal to y) 
 * x **==** y (x is equal to y)
 
 
