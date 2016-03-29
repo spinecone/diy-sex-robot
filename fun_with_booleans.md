@@ -9,7 +9,7 @@ Some different kinds of conditional statements we can make are:
 
 **Control structures** use conditionals to make choices within code. One type of control structure is **if** and **else** statements.
 <br><img src="conditional.png"><br>
-In this program, we're keeping track of the vibrator motor's current speed in a variable that we set before the setup and loop start. increasing the intensity of the vibration over the course of 10 seconds
+In this program, we're keeping track of the vibrator motor's current speed in a variable that we set before the setup and loop start. We increasing the intensity of the vibration over the course of 10 seconds
 
 
 
