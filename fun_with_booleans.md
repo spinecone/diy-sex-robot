@@ -1,4 +1,4 @@
-# Fun With Conditionals and For Loops
+# Fun With Conditionals and Control Structures For Loops
 Conditionals are statements that return either "true" or "false." For example, the conditional statement 100 > 70 evaluates as "true", whereas 0 < 300 is "false."
 
 For loops allow us to make a set number of repetitions within our loop function. They're made up of 3 parts: initializing a counter, checking the counter in a conditional, and updating the counter. When the conditional statement becomes "false", the for loop will stop running.
