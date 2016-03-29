@@ -17,7 +17,7 @@ Vibrators aren't very complicated machines. They're either vibrating or not vibr
 ###   That's it! Everything else is up to your imagination.
 
 
-To improve on our program from the last chapter, let's make it vibrate for 1 second, then pause for a second
+To improve on our program from the last chapter, let's make it vibrate for 1 second, then pause for a second.
 
 
 
