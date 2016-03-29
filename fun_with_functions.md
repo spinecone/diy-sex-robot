@@ -17,7 +17,7 @@ Vibrators aren't very complicated machines. They're either vibrating or not vibr
 ###   That's it! Everything else is up to your imagination.
 
 
-To improve on our program from the last chapter, let's make it vibrate for 1 second, then pause for a second.
+To improve on our program from the last chapter, let's make it vibrate for 1 second, then pause for a second. Remember that 1000 milliseconds is equal to 1 second, and that the delay() function will continue running the previous function while delaying.
 
 
 
