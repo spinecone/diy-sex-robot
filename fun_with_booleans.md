@@ -6,6 +6,11 @@ For loops allow us to make a set number of repetitions within our loop function.
 In this program, we're increasing the intensity of the vibration over the course of 10 seconds, at a maximum of 200 intensity. Our counter, x, starts at 0, repeats the loop until it reaches 10, and increases by 1 at every repeat (x++ is another way of saying x = x + 1).
 
 * Copy the program shown above and test it out on your vibrator.
+* Right now the program starts at 0 intensity and increases to 200 intensity. How would we make it start at 200 intensity and gradually fade to 0 intensity?
+
+
+
+
 * Hmm, this program might be too intense. How can we add a 2000 millisecond pause whenever the vibration speed is at 0?
 * The pause is nice, but it would also be good for the highest speed vibration to last longer. How can we make the program vibrate at the highest speed for 3000 milliseconds before fading out?
 * Let's make the program more interesting. How can we make the fade in faster than the fade out?
