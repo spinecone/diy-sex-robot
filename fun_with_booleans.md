@@ -3,7 +3,7 @@ Conditionals are statements that return either "true" or "false." For example, t
 
 For loops allow us to make a set number of repetitions within our loop function. They're made up of 3 parts: initializing a counter, checking the counter in a conditional, and updating the counter.
 <br> <img src="for_loop.png"><br>
-In this program, we're increasing the intensity of the vibration over the course of 10 seconds, at a maximum of 200 intensity. Our counter, x, starts at 0, repeats the loop until it reaches 10, and increases by 1 at every repeat (x++ is another way of saying x = x + 1).
+In this program, we're increasing the intensity of the vibration over the course of 10 seconds, at a maximum of 200 intensity before repeating the loop. Our counter, x, starts at 0, repeats the for loop until it reaches 10, and increases by 1 at every repeat (x++ is another way of saying x = x + 1).
 
 * Copy the program shown above and test it out on your vibrator.
 * Right now the program starts at 0 intensity and increases to 200 intensity. How would we make it start at 200 intensity and gradually fade to 0 intensity?
