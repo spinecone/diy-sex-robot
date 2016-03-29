@@ -6,4 +6,4 @@ We're going to start with the simplest possible function: vibrating whenever pow
 * That's it! Save, click "upload," and turn on your battery pack to test your function.
 * Try to find the lowest intensity that the vibrator will work with.
 
-Next, we'll use delays to vibrate for 1 second, then pause for 1 second in a cycle. Remember that 1000 milliseconds is equal to 1 second, and that
+Next, we'll use delays to vibrate for 1 second, then pause for 1 second in a cycle. Remember that 1000 milliseconds is equal to 1 second, and that the delay() function will continue running the previous function while delaying.
