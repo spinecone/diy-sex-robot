@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Assembling our Sex Robot
+* [Assembling our Sex Robot](assembling_our_sex_robot.md)
 * [What an Arduino Program Looks Like](what_an_arduino_program_looks_like.md)
 * [Fun With Integers](fun_with_integers.md)
 * [What is a Function?](what_is_a_function.md)
