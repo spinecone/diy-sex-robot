@@ -1,7 +1,7 @@
 # Fun With Conditionals and For Loops
 Conditionals are statements that return either "true" or "false." For example, the conditional statement 100 > 70 evaluates as "true", whereas 0 < 300 is "false."
 
-For loops allow us to make a set number of repetitions within our loop function. They're made up of 3 parts: initializing a counter, checking the counter in a conditional, and updating the counter.
+For loops allow us to make a set number of repetitions within our loop function. They're made up of 3 parts: initializing a counter, checking the counter in a conditional, and updating the counter. When the conditional statement becomes "false", the for loop will stop running.
 <br> <img src="for_loop.png"><br>
 In this program, we're increasing the intensity of the vibration over the course of 10 seconds, at a maximum of 200 intensity before repeating the loop. Our counter, x, starts at 0, repeats the for loop until it reaches 10, and increases by 1 at every repeat (x++ is another way of saying x = x + 1).
 
