@@ -8,4 +8,5 @@
 * [Vibrating With Functions](vibrating_with_functions.md)
 * [More Fun With Integers](chapter1.md)
 * [Fun With Booleans](fun_with_booleans.md)
+* Assembling our Sex Robot
 
