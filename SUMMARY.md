@@ -5,6 +5,6 @@
 * [What an Arduino Program Looks Like](what_an_arduino_program_looks_like.md)
 * [Fun With Integers](fun_with_integers.md)
 * [Fun With Functions](fun_with_functions.md)
-* [Fun With Booleans](fun_with_booleans.md)
+* [Fun With Conditionals and For loops](fun_with_booleans.md)
 * [More Fun With Integers](chapter1.md)
 
