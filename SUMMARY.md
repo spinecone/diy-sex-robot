@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Assembling our Sex Robot
 * [What an Arduino Program Looks Like](what_an_arduino_program_looks_like.md)
 * [Fun With Integers](fun_with_integers.md)
 * [What is a Function?](what_is_a_function.md)
@@ -8,5 +9,4 @@
 * [Vibrating With Functions](vibrating_with_functions.md)
 * [More Fun With Integers](chapter1.md)
 * [Fun With Booleans](fun_with_booleans.md)
-* Assembling our Sex Robot
 
