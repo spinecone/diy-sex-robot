@@ -1,7 +1,10 @@
 # Fun With Conditionals and Control Structures
-Conditionals are statements that return either "true" or "false." For example, the conditional statement 100 > 70 evaluates as "true", whereas 0 < 300 is "false."
+**Conditionals** are statements that return either **true** or **false**. For example, the conditional statement 100 > 70 evaluates as **true**, whereas 0 < 300 is **false**.
 
-Control structures use conditionals to make choices within code. One type of control structure is if and else statements.
+**Control structures** use conditionals to make choices within code. One type of control structure is **if** and **else** statements.
+
+
+
 
 
 
