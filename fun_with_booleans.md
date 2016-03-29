@@ -1,7 +1,7 @@
 # Fun With Conditionals and For Loops
 Conditionals are statements that return either "true" or "false." For example, the conditional statement 100 > 70 evaluates as "true", whereas 0 < 300 is "false."
 
-For loops 
+For loops allow us to make a set number of repetitions within our loop function. They're made up of 3 parts: initializing a counter, a conditional that checks the counter, and updating the counter.<br> <img src="for_loop.png"><br>
 
 * Hmm, this program might be too intense. How can we add a 2000 millisecond pause whenever the vibration speed is at 0?
 * The pause is nice, but it would also be good for the highest speed vibration to last longer. How can we make the program vibrate at the highest speed for 3000 milliseconds before fading out?
