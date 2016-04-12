@@ -2,7 +2,7 @@
 Here is everything that comes with the Master Beta kit:<br>
 <img src="everything.png" width=500 height=500><br><ul>
 <li><b>USB cable</b>: used for connecting the Arduino to a computer in order to pass data back and forth.</li>
-<li></li>
+<li><b>Battery case</b>: Holds 2 AA batteries that will power the vibrator and Arduino (not included in the kit).</li>
 </ul>
 
 
