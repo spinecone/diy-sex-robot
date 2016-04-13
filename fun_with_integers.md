@@ -13,3 +13,5 @@ We're going to start with the simplest possible program: vibrating whenever powe
 * Try out a few different numbers to see what changes!
 
 ### If the vibrator doesn't work but your code looks right...
+* Are all the vibrator and battery pack wires securely attached?
+* Are the battery pack wires attached to the correct clips (black to "GND," red to "+V")?
