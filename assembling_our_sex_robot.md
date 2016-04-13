@@ -7,7 +7,7 @@ Here is everything that comes with the Master Beta kit:<br>
 <li><b>Battery adapter</b>: Can be used to power the vibrator with a 9 volt battery instead of relying on power from a computer.</li>
 <li><b>Arduino</b>: Converts computer programs into signals that can be understood by simple electronic devices like LEDs, speakers, and motors.</li>
 <li><b>Master Beta Shield</b>: Shields are boards that can be used to add functionality to Arduino boards. This one is designed to work with the bullet vibrator motor.</li>
-<li><b></b></li></ul>
+<li><b>Vibrator adapter</b>: The adapters included in the kit can be used to connect to vibrators other than the bullet style we'll be using today.</li></ul>
 
 We won't be using the battery adapter, vibrator adapter, or extra vibrator today, and are going to be supplying our own batteries, so that leaves us with:<br>
 <img src="step1.png" width=500 height=500>
