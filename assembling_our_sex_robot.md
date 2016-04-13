@@ -26,7 +26,7 @@ Push the two boards together all the way (there will still be some space between
 ## 2. Connect the vibrator to the Shield
 
 Next, we'll connect a vibrator (whichever of the 2 you prefer) to the Shield. Locate the clips marked "D5." 
-<br><img src-"step5.png" width=500>
+<br><img src="step5.png" width=500>
 
 Hold down the D5 clips and insert the ends of the vibrator wires into the holes. You should be able to lightly tug on the wires without them falling out. 
 <br><img src="step6.png" width=500>
@@ -41,3 +41,6 @@ Locate the clips marked "Vin5" (it can be difficult to see the label). One end s
 
 Hold the clips down and insert the wires the same way we did with the vibrator wires.
 <br><img src="step9.png" width=500>
+
+Check that the battery pack is switched off.
+<br><img src="step10.png" width=500>
