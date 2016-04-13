@@ -13,3 +13,5 @@ We won't be using the battery adapter, vibrator adapter, or extra vibrator today
 <img src="step1.png" width=500 height=500>
 
 ## 1. Connect the Arduino to the Shield
+
+<img src="step2.png" width=500>
