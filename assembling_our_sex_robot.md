@@ -57,4 +57,4 @@ Connect the other end of the USB cable to a USB port on your computer.
 <br><img src="step13.png" width=400>
 
 # You're ready to program!
-<img src="step14" width=500>
+<img src="step14.png" width=500>
