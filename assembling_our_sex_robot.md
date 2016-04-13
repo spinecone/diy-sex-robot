@@ -11,3 +11,5 @@ Here is everything that comes with the Master Beta kit:<br>
 
 We won't be using the battery adapter, vibrator adapter, or extra vibrator today, and are going to be supplying our own batteries, so that leaves us with:<br>
 <img src="step1.png" width=500 height=500>
+
+## 1. Connect the Arduino to the Shield
