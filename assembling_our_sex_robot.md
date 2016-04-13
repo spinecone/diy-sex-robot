@@ -14,5 +14,11 @@ We won't be using the battery adapter, vibrator adapter, or extra vibrator today
 
 ## 1. Connect the Arduino to the Shield
 
-We'll start by connecting the Arduino board to the Shield board. This will allow the Arduino and the bullet vibrator to understand each other.
+We'll start by connecting the Arduino board to the Shield board. This will allow the Arduino and the bullet vibrator to understand each other. <br>
 <img src="step2.png" width=500>
+
+Make sure that each peg of the Shield lines up with a hole in the Arduino.<br>
+<img src="step3.png" width=500>
+
+Push the two boards together all the way (there will still be some space between them).<br>
+<img src="step4.png" width=500>
