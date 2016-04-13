@@ -33,3 +33,5 @@ Hold down the D5 clips and insert the ends of the vibrator wires into the holes.
 
 It's easier if someone helps :)
 <br><img src="step7.png" width=500>
+
+## 3. Connect the battery pack to the Shield
