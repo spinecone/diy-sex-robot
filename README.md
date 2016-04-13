@@ -1,4 +1,5 @@
 # Why Program a Sex Robot?
+<img src="hi.png">
 
 If you've ever followed an introductory guide to programming, chances are the programs you've written haven't been very fun or useful. And truthfully it can be difficult to make booleans, loops, and algorithms seem like fun. But I don't think it has to be this way. There are lots of things that beginner programmers can make that are useful as well as educational.
 
