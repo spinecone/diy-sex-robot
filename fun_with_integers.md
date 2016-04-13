@@ -6,6 +6,8 @@ We're going to start with the simplest possible program: vibrating whenever powe
 * Download the version of the Arduino IDE (a text editor we'll be writing our programs in) that corresponds to your computer's operating system from https://www.arduino.cc/en/Main/Software.
 * Once the IDE is installed, run it and check Tools -> 
 * Copy the setup and loop from the previous chapter into a new Arduino file.
+
+### Trying out some integers
 * Change the analogWrite to a higher number so that it will vibrate.
 * When you're ready to test, save your file and then click "upload." The program will run when you switch the vibrator's battery pack on.
 * Try out a few different numbers to see what changes!
