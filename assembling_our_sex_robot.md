@@ -22,3 +22,8 @@ Make sure that each peg of the Shield lines up with a hole in the Arduino.<br>
 
 Push the two boards together all the way (there will still be some space between them).<br>
 <img src="step4.png" width=500>
+
+## 2. Connect the vibrator to the Shield
+
+Next, we'll connect a vibrator (whichever of the 2 you prefer) to the Shield. Locate the clips marked "D5."
+<img src-"step5.png" width=500>
