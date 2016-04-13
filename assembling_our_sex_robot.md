@@ -35,3 +35,9 @@ It's easier if someone helps :)
 <br><img src="step7.png" width=500>
 
 ## 3. Connect the battery pack to the Shield
+
+Locate the clips marked "Vin5" (it can be difficult to see the label). One end should be marked "GND." The black wire of the battery pack needs to attach to the "GND" hole and the red wire into the other.
+<br><img src="step8.png" width=500>
+
+Hold the clips down and insert the wires the same way we did with the vibrator wires.
+<br><img src="step9.png" width=500>
