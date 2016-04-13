@@ -28,5 +28,8 @@ Push the two boards together all the way (there will still be some space between
 Next, we'll connect a vibrator (whichever of the 2 you prefer) to the Shield. Locate the clips marked "D5." 
 <br><img src-"step5.png" width=500>
 
-Hold down the D5 clips and insert the ends of the vibrator wires into the holes. You should be able to lightly tug on the wires without them falling out. <br>
-<img src="step6.png" width=500>
+Hold down the D5 clips and insert the ends of the vibrator wires into the holes. You should be able to lightly tug on the wires without them falling out. 
+<br><img src="step6.png" width=500>
+
+It's easier if someone helps :)
+<br><img src="step7.png" width=500>
